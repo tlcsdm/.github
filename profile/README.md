@@ -17,6 +17,7 @@
 | [eclipse-openexplorer](https://github.com/tlcsdm/eclipse-openexplorer) | Quickly open selected files, folders, or projects in the system file explorer directly from Eclipse. |
 | [eclipse-copyright](https://github.com/tlcsdm/eclipse-copyright) | Automatically adds or updates copyright headers in source files. Supports customizable templates and batch processing. |
 | [eclipse-fullscreen](https://github.com/tlcsdm/eclipse-fullscreen) | Enables fullscreen mode in Eclipse IDE to maximize screen space and focus. Useful for presentations or minimal UI. |
+| [eclipse-iconpreview](https://github.com/tlcsdm/eclipse-iconpreview) | IconPreview is a plugin for Eclipse, it opened the files selected in “Package Explorer” and “Navigator” in the system file browser. |
 | [eclipse-translation](https://github.com/tlcsdm/eclipse-translation) | Eclipse plugin for translation. |
 | [eclipse-rbe](https://github.com/tlcsdm/eclipse-rbe) | Resource Bundle Editor: Edit `.properties` files in a structured table view. Ideal for i18n development. |
 | [ucdetector](https://github.com/tlcsdm/ucdetector) | **Unnecessary Code Detector**: Finds unused or dead public code in Java projects within Eclipse. |
