@@ -27,6 +27,14 @@
 
 ---
 
+## ⚙️ Eclipse RCP Projects
+
+| RCP | Description |
+|--------|-------------|
+| [eclipse-rcp-example](https://github.com/tlcsdm/eclipse-rcp-example) | Eclipse RCP Example. |
+
+---
+
 ## 🛠 Utility Projects
 
 | Project | Description |
