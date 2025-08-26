@@ -16,6 +16,7 @@
 |--------|-------------|
 | [eclipse-openexplorer](https://github.com/tlcsdm/eclipse-openexplorer) | Quickly open selected files, folders, or projects in the system file explorer directly from Eclipse. |
 | [eclipse-copyright](https://github.com/tlcsdm/eclipse-copyright) | Automatically adds or updates copyright headers in source files. Supports customizable templates and batch processing. |
+| [eclipse-autofill-arguments](https://github.com/tlcsdm/eclipse-autofill-arguments) | This plugin guesses the call parameters by the callee parameter names. |
 | [eclipse-fullscreen](https://github.com/tlcsdm/eclipse-fullscreen) | Enables fullscreen mode in Eclipse IDE to maximize screen space and focus. Useful for presentations or minimal UI. |
 | [eclipse-iconpreview](https://github.com/tlcsdm/eclipse-iconpreview) | IconPreview is a plugin for Eclipse, it opened the files selected in “Package Explorer” and “Navigator” in the system file browser. |
 | [eclipse-minimap](https://github.com/tlcsdm/eclipse-minimap) | Eclipse plugin provides awesome way to navigate your source code. |
