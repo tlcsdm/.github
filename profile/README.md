@@ -24,6 +24,7 @@
 | [eclipse-translation](https://github.com/tlcsdm/eclipse-translation) | Eclipse plugin for translation. |
 | [eclipse-folding](https://github.com/tlcsdm/eclipse-folding) | This plugin enhances code folding in Eclipse IDE. |
 | [eclipse-bpep](https://github.com/tlcsdm/eclipse-bpep) | Builder Pattern Eclipse Plugin. |
+| [eclipse-multicursor](https://github.com/tlcsdm/eclipse-multicursor) | Multiple cursor support for Eclipse IDE. |
 | [eclipse-rbe](https://github.com/tlcsdm/eclipse-rbe) | Resource Bundle Editor: Edit `.properties` files in a structured table view. Ideal for i18n development. |
 | [ucdetector](https://github.com/tlcsdm/ucdetector) | **Unnecessary Code Detector**: Finds unused or dead public code in Java projects within Eclipse. |
 | [jd-eclipse](https://github.com/tlcsdm/jd-eclipse) | Integrates the JD-Core Java decompiler into Eclipse, allowing you to view decompiled `.class` files directly. |
