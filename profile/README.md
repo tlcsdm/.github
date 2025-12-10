@@ -18,6 +18,7 @@
 | [eclipse-copyright](https://github.com/tlcsdm/eclipse-copyright) | Automatically adds or updates copyright headers in source files. Supports customizable templates and batch processing. |
 | [eclipse-autofill-arguments](https://github.com/tlcsdm/eclipse-autofill-arguments) | This plugin guesses the call parameters by the callee parameter names. |
 | [eclipse-generateAllSetter](https://github.com/tlcsdm/eclipse-generateAllSetter) | This plugin generates call to setter method value for class. |
+| [eclipse-method-sorter](https://github.com/tlcsdm/eclipse-method-sorter) | This plugin provides techniques to sort methods in Java-classes, aiming to increase the readability of the source code. |
 | [eclipse-fixcnchar](https://github.com/tlcsdm/eclipse-fixcnchar) | An Eclipse plugin to automatically fix Chinese punctuation in editors. |
 | [eclipse-fullscreen](https://github.com/tlcsdm/eclipse-fullscreen) | Enables fullscreen mode in Eclipse IDE to maximize screen space and focus. Useful for presentations or minimal UI. |
 | [eclipse-iconpreview](https://github.com/tlcsdm/eclipse-iconpreview) | IconPreview is a plugin for Eclipse, it opened the files selected in “Package Explorer” and “Navigator” in the system file browser. |
