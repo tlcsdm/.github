@@ -20,6 +20,7 @@
 | [eclipse-generateAllSetter](https://github.com/tlcsdm/eclipse-generateAllSetter) | This plugin generates call to setter method value for class. |
 | [eclipse-method-sorter](https://github.com/tlcsdm/eclipse-method-sorter) | This plugin provides techniques to sort methods in Java-classes, aiming to increase the readability of the source code. |
 | [eclipse-maven-view](https://github.com/tlcsdm/eclipse-maven-view) | This plugin recreates IntelliJ IDEA's Maven View for Eclipse. |
+| [eclipse-instasearch](https://github.com/tlcsdm/eclipse-instasearch) | Eclipse plug-in for doing quick search in workspace files using a search engine. Shows search results instantly as you type. |
 | [eclipse-fixcnchar](https://github.com/tlcsdm/eclipse-fixcnchar) | An Eclipse plugin to automatically fix Chinese punctuation in editors. |
 | [eclipse-fullscreen](https://github.com/tlcsdm/eclipse-fullscreen) | Enables fullscreen mode in Eclipse IDE to maximize screen space and focus. Useful for presentations or minimal UI. |
 | [eclipse-iconpreview](https://github.com/tlcsdm/eclipse-iconpreview) | IconPreview is a plugin for Eclipse, it opened the files selected in “Package Explorer” and “Navigator” in the system file browser. |
