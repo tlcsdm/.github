@@ -44,6 +44,14 @@
 
 ---
 
+## ⚙️ VSCode Plugin Projects
+
+| Plugin | Description |
+|--------|-------------|
+| [vscode-fixcnchar](https://github.com/tlcsdm/vscode-fixcnchar) | Automatically fix Chinese punctuation in editors. |
+
+---
+
 ## 🛠 Utility Projects
 
 | Project | Description |
