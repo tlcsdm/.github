@@ -49,6 +49,7 @@
 | Plugin | Description |
 |--------|-------------|
 | [vscode-fixcnchar](https://github.com/tlcsdm/vscode-fixcnchar) | Automatically fix Chinese punctuation in editors. |
+| [vscode-iconpreview](https://github.com/tlcsdm/vscode-iconpreview) | IconPreview is a lightweight VSCode plugin that allows you to preview image files in the view. |
 
 ---
 
