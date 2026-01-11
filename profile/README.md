@@ -2,14 +2,6 @@
 
 ---
 
-## 📚 Documentation Projects
-
-| Project | Description |
-|---------|-------------|
-| [docs](https://github.com/tlcsdm/docs) | A collection of technical documents, including Chinese guides for Freemarker, ExtJS, and more. |
-
----
-
 ## ⚙️ Eclipse Plugin Projects
 
 | Plugin | Description |
@@ -60,6 +52,14 @@
 | Project | Description |
 |---------|-------------|
 | [xxl-job-oracle](https://github.com/tlcsdm/xxl-job-oracle) | A modified version of XXL-Job with support for Oracle databases. |
+
+---
+
+## 📚 Documentation Projects
+
+| Project | Description |
+|---------|-------------|
+| [docs](https://github.com/tlcsdm/docs) | A collection of technical documents, including Chinese guides for Freemarker, ExtJS, and more. |
 
 ---
 
