@@ -44,6 +44,7 @@
 | [vscode-iconpreview](https://github.com/tlcsdm/vscode-iconpreview) | IconPreview is a lightweight VSCode plugin that allows you to preview image files in the view. |
 | [vscode-translation](https://github.com/tlcsdm/vscode-translation) | VSCode plugin for translation. |
 | [vscode-java-method-sorter](https://github.com/tlcsdm/vscode-java-method-sorter) | It provides techniques to sort methods in Java-classes, aiming to increase the readability of the source code. |
+| [vscode-java-autofill-arguments](https://github.com/tlcsdm/vscode-java-autofill-arguments) | This plugin guesses the call parameters by the callee parameter names. |
 
 ---
 
