@@ -46,6 +46,7 @@
 | [vscode-java-method-sorter](https://github.com/tlcsdm/vscode-java-method-sorter) | It provides techniques to sort methods in Java-classes, aiming to increase the readability of the source code. |
 | [vscode-java-autofill-arguments](https://github.com/tlcsdm/vscode-java-autofill-arguments) | This plugin guesses the call parameters by the callee parameter names. |
 | [vscode-patchReader](https://github.com/tlcsdm/vscode-patchReader) | Visualize patch and diff files. |
+| [vscode-javafx-support](https://github.com/tlcsdm/vscode-javafx-support) | JavaFX support for VS Code. |
 
 ---
 
