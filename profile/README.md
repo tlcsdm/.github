@@ -47,6 +47,7 @@
 | [vscode-java-autofill-arguments](https://github.com/tlcsdm/vscode-java-autofill-arguments) | This plugin guesses the call parameters by the callee parameter names. |
 | [vscode-patchReader](https://github.com/tlcsdm/vscode-patchReader) | Visualize patch and diff files. |
 | [vscode-javafx-support](https://github.com/tlcsdm/vscode-javafx-support) | JavaFX support for VS Code. |
+| [vscode-git-blame-info](https://github.com/tlcsdm/vscode-git-blame-info) | Display git blame information in the editor gutter with color-coded annotations, inspired by Eclipse EGit. |
 
 ---
 
