@@ -22,7 +22,7 @@
 | [eclipse-bpep](https://github.com/tlcsdm/eclipse-bpep) | Builder Pattern Eclipse Plugin. |
 | [eclipse-multicursor](https://github.com/tlcsdm/eclipse-multicursor) | Multiple cursor support for Eclipse IDE. |
 | [eclipse-rbe](https://github.com/tlcsdm/eclipse-rbe) | Resource Bundle Editor: Edit `.properties` files in a structured table view. Ideal for i18n development. |
-| [ucdetector](https://github.com/tlcsdm/ucdetector) | **Unnecessary Code Detector**: Finds unused or dead public code in Java projects within Eclipse. |
+| [eclipse-ucdetector](https://github.com/tlcsdm/eclipse-ucdetector) | **Unnecessary Code Detector**: Finds unused or dead public code in Java projects within Eclipse. |
 | [jd-eclipse](https://github.com/tlcsdm/jd-eclipse) | Integrates the JD-Core Java decompiler into Eclipse, allowing you to view decompiled `.class` files directly. |
 | [eclipse-renesas-config-editor](https://github.com/tlcsdm/eclipse-renesas-config-editor) | This plugin registers .mtpj, .scfg, and .ewp files—commonly used in Renesas projects—to be opened by Eclipse’s built-in XML editor. |
 
