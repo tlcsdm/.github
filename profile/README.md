@@ -49,6 +49,7 @@
 | [vscode-javafx-support](https://github.com/tlcsdm/vscode-javafx-support) | JavaFX support for VS Code. |
 | [vscode-git-blame-info](https://github.com/tlcsdm/vscode-git-blame-info) | Display git blame information in the editor gutter with color-coded annotations, inspired by Eclipse EGit. |
 | [vscode-json-tree-view](https://github.com/tlcsdm/vscode-json-tree-view) | Provides a visual tree view for browsing, searching, and querying JSON files using JSONata. |
+| [vscode-git-patch-exporter](https://github.com/tlcsdm/vscode-git-patch-exporter) | A VS Code extension that exports selected changed files from the **Source Control** view as a Git `.patch` file which can be re-applied later with `git apply`. |
 
 ---
 
